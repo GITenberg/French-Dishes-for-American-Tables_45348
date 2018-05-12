@@ -1,0 +1,31 @@
+_repo: French-Dishes-for-American-Tables_45348
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sherman, Frederic, Mrs.
+    alias: Sherman, Mrs. Frederic
+    gutenberg_agent_id: '43232'
+    url: http://www.gutenberg.org/2009/agents/43232
+covers:
+- cover_type: archival
+  image_path: 45348-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Caron, Pierre, active 1886-1899
+    gutenberg_agent_id: '43231'
+    url: http://www.gutenberg.org/2009/agents/43231
+description: ''
+gutenberg_issued: '2014-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45348'
+  lccn: 07023589
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, French'
+- !lcc 'TX'
+title: French Dishes for American Tables
+url: http://www.gutenberg.org/ebooks/45348
