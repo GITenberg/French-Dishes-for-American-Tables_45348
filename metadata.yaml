@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '43231'
     url: http://www.gutenberg.org/2009/agents/43231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45348#French-Dishes-for-American-Tables
 gutenberg_issued: '2014-04-08'
 gutenberg_type: Text
 identifiers:
